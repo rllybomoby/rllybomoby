@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rllybomoby
-- 👀 I’m interested in music, art, reading, and the outdoors.
-- 🌱 I’m currently learning web development, psychology, entrepreneurship, and music management 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Im making tacos for diner 
+# README by @rllybomoby
+- I love music, art, reading, and the outdoors.
+- This semester I’m taking classes in  web development, psychology, entrepreneurship, and music management 
+- Pronouns: she/her
 
 <!---
 rllybomoby/rllybomoby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
